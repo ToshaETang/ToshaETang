@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+National Taiwan Normal University
+Major 1 : Geography
+Major 2 : Computer Science
+School Number : 40923129L
+
+
 <!--
 **ToshaETang/ToshaETang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
