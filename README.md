@@ -1,4 +1,4 @@
-### Hi This is Tosha Elsa Tang (湯可伊) 👋  
+### This is Tosha Elsa Tang (湯可伊) 👋  
 
 
 National Taiwan Normal University  
@@ -6,6 +6,8 @@ Major 1 : Geography
 Major 2 : Computer Science  
 School Number : 40923129L  
 
+📫  
+Gmail: a0320506@gmail.com  
 
 <!--
 **ToshaETang/ToshaETang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
