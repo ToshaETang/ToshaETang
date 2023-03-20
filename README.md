@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 
-National Taiwan Normal University
-Major 1 : Geography
-Major 2 : Computer Science
-School Number : 40923129L
+National Taiwan Normal University  
+Major 1 : Geography  
+Major 2 : Computer Science  
+School Number : 40923129L  
 
 
 <!--
