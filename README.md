@@ -6,8 +6,6 @@ Major 1 : Geography 地理系
 Major 2 : Computer Science and Information Engineering 資工系  
 School Number : 40923129L  
 Grade: Junior 大三  
-
- 
 Gmail: a0320506@gmail.com  
 LinkedIn: https://www.linkedin.com/in/tosha-elsa-tang-785907235/  
 
