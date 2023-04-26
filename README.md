@@ -8,6 +8,8 @@ School Number : 40923129L
 Grade: Junior 大三  
 Gmail: a0320506@gmail.com  
 LinkedIn: https://www.linkedin.com/in/tosha-elsa-tang-785907235/  
+Medium: https://medium.com/@toshaelsatang  
+LeetCode: https://leetcode.com/ToshaElsaTang/  
 
 <!--
 **ToshaETang/ToshaETang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
