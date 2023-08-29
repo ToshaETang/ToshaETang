@@ -7,7 +7,7 @@ Major2: Computer Science and Information Engineering 資工系
 School Number : 40923129L  
 Grade: Senior 大四  
 Gmail: a0320506@gmail.com  
-LinkedIn: https://www.linkedin.com/in/tosha-elsa-tang-785907235/  
+LinkedIn: https://www.linkedin.com/in/tosha-tang-785907235/  
 Medium: https://medium.com/@toshaelsatang  
 
 <!--
