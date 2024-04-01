@@ -15,6 +15,11 @@ Resume + CV: https://github.com/ToshaETang/ToshaETang/blob/main/KE-YI%20Tang_res
 
 Medium: https://medium.com/@toshaelsatang  
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/ToshaElsaTang)  
+
+
+
+
 <!--
 **ToshaETang/ToshaETang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
