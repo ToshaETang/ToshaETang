@@ -6,10 +6,14 @@ Major1: Computer Science and Information Engineering 資工系
 Major2: Geography 地理系  
 School Number : 40923129L  
 Grade: Senior 大四  
+
 Gmail: a0320506@gmail.com  
 LinkedIn: https://www.linkedin.com/in/tosha-tang-785907235/  
-Medium: https://medium.com/@toshaelsatang  
+
 Resume: https://github.com/ToshaETang/ToshaETang/blob/main/KE-YI%20Tang_resume.pdf  
+Resume + CV: https://github.com/ToshaETang/ToshaETang/blob/main/KE-YI%20Tang_resume%2BCV.pdf  
+
+Medium: https://medium.com/@toshaelsatang  
 
 <!--
 **ToshaETang/ToshaETang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
