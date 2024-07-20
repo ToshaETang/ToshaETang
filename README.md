@@ -1,11 +1,11 @@
 ### This is Tosha Tang (湯可伊)  
 
 
-National Taiwan Normal University (2021.9 ~ now) 國立台灣師範大學  
+National Taiwan Normal University (2020.9 ~ now) 國立台灣師範大學  
 Major1: Computer Science and Information Engineering 資工系  
 Major2: Geography 地理系  
 School Number : 40923129L  
-Grade: Senior 大四  
+Grade: Senior 大五  
 
 ---
 
