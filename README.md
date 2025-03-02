@@ -12,8 +12,9 @@ Grade: Senior 大五
 Gmail: a0320506@gmail.com  
 LinkedIn: https://www.linkedin.com/in/tosha-tang-785907235/  
 
-Resume: https://github.com/ToshaETang/ToshaETang/blob/main/KE-YI%20Tang_resume.pdf  
-Resume + CV: https://github.com/ToshaETang/ToshaETang/blob/main/KE-YI%20Tang_resume%2BCV.pdf  
+Resume: https://github.com/ToshaETang/ToshaETang/blob/main/CV.pdf      
+
+Personal web page: https://toshaetang.github.io/    
 
 Medium: https://medium.com/@toshaelsatang  
 
