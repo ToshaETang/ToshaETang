@@ -16,6 +16,7 @@ Personal web page: https://toshaetang.github.io/
 Medium: https://medium.com/@toshaelsatang  
 English Transcript: https://github.com/ToshaETang/ToshaETang/blob/main/40923129L_EnglishTranscript(Grade).pdf  
 Chinese Transcript: https://github.com/ToshaETang/ToshaETang/blob/main/40923129L_ChineseTranscript.pdf  
+
 --- 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/ToshaElsaTang)  
